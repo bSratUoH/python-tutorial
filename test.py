@@ -6,5 +6,8 @@ def div(a, b):
     return a/b
 
 #swjdhj
+def mul(q, b):
+    return q*b
+    
 print(add_two_num(10,20))
 
